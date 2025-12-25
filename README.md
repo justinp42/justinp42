@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi! I'm Justin Pham)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50C878&width=435&lines=Hi!+I'm+Justin+Pham)](https://git.io/typing-svg)
 <!--
 **justinp42/justinp42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
