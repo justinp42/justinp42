@@ -2,5 +2,6 @@
 
 ![Skills](terminal.gif)
 
-
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,react,mysql,git,github,linux,vscode,firebase,arduino,raspberrypi)](https://skillicons.dev)
 
